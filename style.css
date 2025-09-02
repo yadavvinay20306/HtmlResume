@@ -1,0 +1,47 @@
+.one{
+
+    background-color: black;
+    color: white;
+    text-align:center ;
+}
+hr{
+
+    height: 5px;
+    background-color: black;
+
+}
+.gray{
+    background-color: gray;
+}
+
+
+
+table {
+    width: 70%;
+    border-collapse: collapse; /* makes single borders instead of double */
+    margin: 10px 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+
+
+  th, td {
+    border: 2px solid black; /* makes boxes */
+    padding: 10px;
+  }
+
+  th {
+    background-color: #f2f2f2;
+  }
+
+  .resume {
+    width: 80%;              /* make it not too wide */
+    margin: 20px auto;       /* center on page */
+    padding: 20px;           /* inner space */
+    border: 3px solid black; /* main border */
+    border-radius: 10px;     /* smooth corners */
+    background-color: white; /* clean background */
+}
+
+
+
